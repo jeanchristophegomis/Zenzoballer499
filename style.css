@@ -649,14 +649,6 @@ body {
     height: 220px;
 }
 
-/* ANIMATION CSS */
-.main_footer:hover {
-    background-color: rgba(0, 101, 252, 0.7);
-}
-
-.main_footer:hover a {
-    color: #ffffff;
-}
 
 /*++++++++++*/
 
