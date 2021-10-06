@@ -78,7 +78,8 @@ body {
 
 .main_header_nav_link_hosting {
     text-decoration: none;
-    color: #0065fc;
+    color: #000000;
+    
 }
 
 .main_header_nav_link_activities {
@@ -88,17 +89,30 @@ body {
 
 .main_header_sign_link {
     text-decoration: none;
-    color: #0065fc;
+    color: #000000;
     font-weight: 600;
 }
 
 /* CSS ANIMATION */
 .main_header_nav_item:hover {
     border-top: 2px solid #0065fc;
-}
+
+} 
 
 .main_header_sign:hover {
-    border-top: 2px solid #0065fc;
+    border-top: 2px solid transparent;
+}
+
+.main_header_nav_link_hosting:hover {
+    border-top-color: #0065fc;
+    color: #0065fc;
+}
+.main_header_nav_link_activities:hover {
+    border-top-color: #0065fc;
+    color: #0065fc;
+}
+.main_header_sign_link:hover {
+    color: #0065fc;
 }
 
 /*++++++++++*/
