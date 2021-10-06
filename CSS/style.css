@@ -350,7 +350,7 @@ body {
 
 /* CSS ANIMATION */
 .container_hosting_link_card:hover {
-    flex-grow: 0.3;
+    flex-grow: 0;
     box-shadow: 3px 3px 10px #0065fc;
 }
 
@@ -461,7 +461,7 @@ body {
 
 /* CSS ANIMATION */
 .container_most_popular_link-card:hover {
-    flex-grow: 0.3;
+    flex-grow: 0;
     box-shadow: 3px 3px 10px #0065fc;
 }
 
